@@ -9,3 +9,7 @@ header{
 .productos div{
     margin: 10px;
 }
+
+.container-fluid{
+    margin-top: 2%;
+}
