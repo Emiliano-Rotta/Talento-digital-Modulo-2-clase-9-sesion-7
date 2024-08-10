@@ -13,3 +13,9 @@ header{
 .container-fluid{
     margin-top: 2%;
 }
+
+footer{
+    margin-top: 2%;
+    text-align: center;
+    height: 5vh;
+}
